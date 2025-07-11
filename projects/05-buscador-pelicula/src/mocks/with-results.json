@@ -1,0 +1,160 @@
+{
+  "titles": [
+    {
+      "id": "tt21357150",
+      "type": "movie",
+      "primary_title": "Avengers: Doomsday",
+      "original_title": "Avengers: Doomsday",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMGNiN2RlZTMtMTkyZC00YjkwLTgyY2QtMDg1ZDNhODQwNWM4XkEyXkFqcGc@._V1_.jpg",
+        "width": 2592,
+        "height": 3840
+      },
+      "rating": {},
+      "start_year": 2026
+    },
+    {
+      "id": "tt4154796",
+      "type": "movie",
+      "primary_title": "Avengers: Endgame",
+      "original_title": "Avengers: Endgame",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "rating": {
+        "aggregate_rating": 8.4,
+        "votes_count": 1369855
+      },
+      "start_year": 2019
+    },
+    {
+      "id": "tt0848228",
+      "type": "movie",
+      "primary_title": "The Avengers",
+      "original_title": "The Avengers",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNGE0YTVjNzUtNzJjOS00NGNlLTgxMzctZTY4YTE1Y2Y1ZTU4XkEyXkFqcGc@._V1_.jpg",
+        "width": 800,
+        "height": 1184
+      },
+      "rating": {
+        "aggregate_rating": 8,
+        "votes_count": 1515668
+      },
+      "start_year": 2012
+    },
+    {
+      "id": "tt4154756",
+      "type": "movie",
+      "primary_title": "Avengers: Infinity War",
+      "original_title": "Avengers: Infinity War",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+      },
+      "rating": {
+        "aggregate_rating": 8.4,
+        "votes_count": 1298517
+      },
+      "start_year": 2018
+    },
+    {
+      "id": "tt2395427",
+      "type": "movie",
+      "primary_title": "Avengers: Age of Ultron",
+      "original_title": "Avengers: Age of Ultron",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BODBhYTg1NGQtNGVmNS00ZTdiLThjYTYtZDFkNzRiNTZmNDZjXkEyXkFqcGc@._V1_.jpg",
+        "width": 864,
+        "height": 1280
+      },
+      "rating": {
+        "aggregate_rating": 7.3,
+        "votes_count": 965864
+      },
+      "start_year": 2015
+    },
+    {
+      "id": "tt21361444",
+      "type": "movie",
+      "primary_title": "Avengers: Secret Wars",
+      "original_title": "Avengers: Secret Wars",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTQyZTQ5MWQtN2M4NC00YWQwLTg3ZTctM2JiZDE4NDBkZDJkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1920,
+        "height": 2883
+      },
+      "rating": {},
+      "start_year": 2027
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "primary_title": "Thunderbolts*",
+      "original_title": "Thunderbolts*",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWE2NmNmYTItZGY0ZC00MmY2LTk1NDAtMGUyMGEzMjcxNWM0XkEyXkFqcGc@._V1_.jpg",
+        "width": 2000,
+        "height": 2818
+      },
+      "rating": {
+        "aggregate_rating": 7.4,
+        "votes_count": 136977
+      },
+      "start_year": 2025
+    },
+    {
+      "id": "tt0054518",
+      "type": "tvSeries",
+      "primary_title": "The Avengers",
+      "original_title": "The Avengers",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDhhYWIxMzYtNTY2Zi00MTZiLWI2ZDUtYjNiNTY5YzA5MWNkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1099,
+        "height": 1500
+      },
+      "rating": {
+        "aggregate_rating": 8.3,
+        "votes_count": 9458
+      },
+      "start_year": 1961,
+      "end_year": 1969
+    },
+    {
+      "id": "tt2455546",
+      "type": "tvSeries",
+      "primary_title": "Avengers Assemble",
+      "original_title": "Avengers Assemble",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_.jpg",
+        "width": 1526,
+        "height": 2048
+      },
+      "rating": {
+        "aggregate_rating": 7,
+        "votes_count": 8903
+      },
+      "start_year": 2012,
+      "end_year": 2019
+    },
+    {
+      "id": "tt0118661",
+      "type": "movie",
+      "primary_title": "The Avengers",
+      "original_title": "The Avengers",
+      "primary_image": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTA4ZmZlZWQtZDRlYS00ZWZhLTk0MzEtYjExMGIzMTBlZDNlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1500,
+        "height": 2260
+      },
+      "rating": {
+        "aggregate_rating": 3.8,
+        "votes_count": 46339
+      },
+      "start_year": 1998
+    }
+  ]
+}
