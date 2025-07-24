@@ -1,4 +1,5 @@
 import { useState } from "react"
+import Icon from "../common/Icon"
 
 const images = [
     "/carousel/1.jpg",
@@ -32,16 +33,16 @@ export default function Carrusel() {
                 ))}
             </div>
 
-            <button onClick={prevSlide} className="absolute top-1/2 left-2 transform 
-                -translate-y-1/2 z-20  text-black p-2 rounded-full 
-                shadow hover:bg-white transition">
-                ⬅
+            <button onClick={prevSlide} className="absolute bg-white top-1/2 left-2 
+                transform -translate-y-1/2 z-20  text-black p-2 rounded-full 
+                shadow hover:bg-white transition cursor-pointer">
+                <Icon name="icon-arrow-left"/>
             </button>
 
-            <button onClick={nextSlide} className="absolute top-1/2 right-2 transform 
-                -translate-y-1/2 z-20 text-black p-2 rounded-full 
-                shadow hover:bg-white transition">
-                ➡
+            <button onClick={nextSlide} className="absolute bg-white top-1/2 right-2 
+                transform -translate-y-1/2 z-20 text-black p-2 rounded-full 
+                shadow hover:bg-white transition rotate-180 cursor-pointer">
+                <Icon name="icon-arrow-left"/> 
             </button>
         </div>
     )
